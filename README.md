@@ -3,6 +3,11 @@
 ## Sobre
 Este repositório destina-se a documentar minha jornada na construção de uma carreira na área de dados. Aqui, compartilho recursos, aprendizados, projetos e experiências relacionadas ao estudo e prática em ciência de dados, análise de dados e outras disciplinas correlatas.
 
+## TECH GUIDE (ALURA)
+Data Engineering - https://techguide.sh/pt-BR/path/data-engineering/
+IA - https://techguide.sh/pt-BR/path/inteligencia-artificial/
+FullStack - https://techguide.sh/pt-BR/path/full-stack/
+
 ## Conteúdo
 ### 1. Estatística e Matemática:
    - Estatística Descritiva
